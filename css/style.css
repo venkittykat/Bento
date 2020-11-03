@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 :root {
     /* Fonts  */
-    --fsg: 100px; /*150*/
-    --fsm: 85px;
-    --fss: 30px;
-    --fses: 18px;
+    --fsg: 80px; /*150, 85, 30, 18*/
+    --fsm: 75px;
+    --fss: 20px;
+    --fses: 10px;
 
     /* Light theme  */
     --accent: #186efdaa;
