@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 :root {
     /* Fonts  */
-    --fsg: 140px; /*150, 85, 30, 18*/
-    --fsm: 80px;
-    --fss: 25px;
-    --fses: 15px;
+    --fsg: 200px; /*150, 85, 30, 18*/
+    --fsm: 90px;
+    --fss: 35px;
+    --fses: 25px;
 
     /* Light theme  */
     --accent: #186efdaa;
@@ -20,14 +20,14 @@
     to make the filter to your own */
 
     --imgbg: url('http://static.simpledesktops.com/uploads/desktops/2014/06/19/waves.png'); 
-    /*--imgcol: linear-gradient(
+    --imgcol: linear-gradient(
         rgba(255, 255, 255, 0.7),
         rgba(255, 255, 255, 0.7)
-    );*/
+    );
 }
 @media only screen and (max-width: 68.75em) {
     :root {
-        --fsg: 90px;
+        --fsg: 100px;
         --fsm: 60px;
         --fss: 15px;
     }
